@@ -1,1 +1,0 @@
-# Celebrities-Image-Classification
